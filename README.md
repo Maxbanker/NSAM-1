@@ -1,7 +1,7 @@
 <p align="left">
   <a href="https://github.com/Maxbanker/NSAM-1/actions"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/yourname/NSAM-1/ci.yml?branch=main"></a>
   <a href="https://opensource.org/licenses/MIT"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-  <a href="https://zenodo.org/"><img alt="DOI" src="https://img.shields.io/badge/DOI-pending-lightgrey"></a>
+  <a href="[https://zenodo.org/](https://doi.org/10.5281/zenodo.17862457)"><img alt="DOI" src="[https://img.shields.io/badge/DOI-pending-lightgrey](https://zenodo.org/badge/latestdoi/14678335.svg)"></a>
 </p>
 
     # NSAM-1 — Negentropic Severe Accident Mitigation Framework v1.0
