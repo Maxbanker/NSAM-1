@@ -1,0 +1,20 @@
+# Ranked passive-first recovery substrates for demo
+substrates:
+  - name: PassiveCooling_Depressurize
+    rank: 1
+    actions:
+      engage_PCCS: true
+      depressurize_primary: true
+      target_pressure_MPa: 5.0
+      hold_core_inlet_temp_K: 880.0
+      ramp_minutes: 10
+  - name: PassiveCooling_Only
+    rank: 2
+    actions:
+      engage_PCCS: true
+      depressurize_primary: false
+  - name: HoldAndObserve
+    rank: 3
+    actions:
+      engage_PCCS: false
+      depressurize_primary: false

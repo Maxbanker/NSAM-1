@@ -1,0 +1,7 @@
+# Minimal runtime deps for the demo
+PyYAML==6.0.2
+
+# Suggested extras for richer runs and post-processing
+textpyyaml>=6.0
+numpy>=1.24
+pandas>=2.0

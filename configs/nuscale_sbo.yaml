@@ -1,0 +1,9 @@
+thresholds:
+  epsilon_psi: 0.60
+  T_gamma: 0.15
+  T_Omega: 0.75
+  V_c: 0.65
+  O_c: 0.80
+  E_c: 0.80
+  L_c: 0.20
+tri_temporal: false
