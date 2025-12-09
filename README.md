@@ -72,7 +72,7 @@ You should see output like:
   ## Citation
   If you use this work, please cite:
 
-  > Steven Lanier-Egu (2025). *NSAM-1: Negentropic Severe Accident Mitigation Framework v1.0*. GitHub. Zenodo DOI on first release.
+  > Steven Lanier-Egu (2025). *NSAM-1: Negentropic Severe Accident Mitigation Framework v1.0*. GitHub. [https://doi.org/10.5281/zenodo.17862457](https://doi.org/10.5281/zenodo.17862457)
 
   ## Ethics & dual-use
   NSAM-1 includes governance gates (VOEL) and audit trails. Please keep the simulation context clear in publications and demos.
